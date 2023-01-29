@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Project Hello</string>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="content_desc_my_photo">my photo</string>
+    <string name="content_desc_my_bio">my bio</string>
+    <string name="vinson_andriano">Vinson Andriano</string>
+    <string name="_03081210023">03081210023</string>
+    <string name="hobby">Hobby:</string>
+    <string name="sleeping">- Sleeping</string>
+    <string name="playing_games">- Playing Games</string>
+    <string name="desc">Desc:</string>
+    <string name="a_little_weirdo_who_likes_spending_time_doing_nothing_and_money_buying_toys">A little weirdo who likes spending time doing nothing and money buying toys.</string>
+    <string name="born">Born:</string>
+    <string name="tanjung_balai_19th_march_2004">Tanjung Balai, 19th March 2004</string>
+    <string name="edit">Edit</string>
+    <string name="name">Name</string>
+    <string name="nim">NIM</string>
+    <string name="about_yourself">About Yourself...</string>
+    <string name="Hobby">-</string>
+    <string name="place_date">Place, Date</string>
+</resources>
